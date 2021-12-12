@@ -1,0 +1,25 @@
+.card-container{
+    background: #1D1F23;
+    box-shadow: inset 2px 2px 24px -4px rgba(255, 255, 255, 0.16), inset -2px -2px 24px -2px #000000;
+    border-radius: 4px;
+    border: 2px solid;
+    border-image-source: linear-gradient(252.86deg, #363A40 -5.87%, rgba(29, 31, 35, 0) 95.81%) 3;
+}
+.border-left{
+    border-bottom: 2.5px solid #20847d;
+    border-right: 2.5px solid #20847d;
+}
+.border-medium{
+    border-bottom: 2.5px solid #20847d;
+}
+.border-right{
+    border-bottom: 2.5px solid #20847d;
+    border-left: 2.5px solid #20847d;
+}
+.border-left1{
+    border-right: 2.5px solid #20847d;
+}
+
+.border-right1{
+    border-left: 2.5px solid #20847d;
+}
