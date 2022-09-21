@@ -1,5 +1,12 @@
+![GitHub Repo stars](https://img.shields.io/github/stars/raj-rathod/tic-toc-game?style=social)
+![GitHub forks](https://img.shields.io/github/forks/raj-rathod/tic-toc-game?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/raj-rathod/tic-toc-game?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/raj-rathod/tic-toc-game)
+![GitHub issues](https://img.shields.io/github/issues-raw/raj-rathod/tic-toc-game)
+
 # Tic Tac Toe Game
-it very famous game any one can easily play and even easily develop 
+
+> it very famous game any one can easily play and even easily develop 
 it's really time pass game during school time and even any time with your `friends` and `girlfriend` 
 any one can play and even easily understand the game
 I also developed this game  just for fun and play it with my friends and i am waiting for playing with my `girlfriend`
@@ -47,10 +54,17 @@ its time to celebrate
 <img src="./images/mobile-winner.png" width="400px"</img> 
 </div>
 
-### Hi there, I'm <a href="https://www.sololearn.com/profile/10902790#_=_" target="_blank">Rajesh Rathore</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+## Connect with me ~Rajesh Rathore
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-rathore-0501/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.sololearn.com/profile/10902790#_=_)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://linktr.ee/rajesh_rathore)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Rajesh946055)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/raj_rathod1313/?hl=en)
-[![Github](https://img.shields.io/github/followers/raj-rathod?label=Follow&style=social)](https://github.com/raj-rathod)
+
+
+***Do star, fork and share the repo to show your support, it would help others too!***   <br>
+ <br>
+ Let me know your views or any changes or improvements or contribute to make better for others 
+ 
+ :heart: ***Thank you all for Forking this repository and contribute***  :heart:
